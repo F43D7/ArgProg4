@@ -3,7 +3,7 @@ package tp22;
 
 /**
  *
- * @author Fredy22
+ * @author Fredy22333
  */
 public class Equipo {
     private int idEquipo;
